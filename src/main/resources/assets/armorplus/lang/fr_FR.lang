@@ -7,46 +7,46 @@ itemGroup.armorplus.creativeTab=ArmorPlus
 gui.armorplus.config.title=ArmorPlus Configuration
 
 #CoalArmor
-item.CoalHelmet.name=Coal Helmet
-item.CoalChestplate.name=Coal Chestplate
-item.CoalLeggings.name=Coal Leggings
-item.CoalBoots.name=Coal Boots
+item.CoalHelmet.name=Casque en Charbon
+item.CoalChestplate.name=Plastron en Charbon
+item.CoalLeggings.name=Jambières en Charbon
+item.CoalBoots.name=Bottes en Charbon
 
 #LapisArmor
-item.LapisHelmet.name=Lapis Helmet
-item.LapisChestplate.name=Lapis Chestplate
-item.LapisLeggings.name=Lapis Leggings
-item.LapisBoots.name=Lapis Boots
+item.LapisHelmet.name=Casque en Lapis
+item.LapisChestplate.name=Plastron en Lapis
+item.LapisLeggings.name=Jambières en Lapis
+item.LapisBoots.name=Bottes en Lapis
 
 #RedstoneArmor
-item.RedstoneHelmet.name=Redstone Helmet
-item.RedstoneChestplate.name=Redstone Chestplate
-item.RedstoneLeggings.name=Redstone Leggings
-item.RedstoneBoots.name=Redstone Boots
+item.RedstoneHelmet.name=Casque en Redstone
+item.RedstoneChestplate.name=Plastron en Redstone
+item.RedstoneLeggings.name=Jambières en Redstone
+item.RedstoneBoots.name=Bottes en Redstone
 
 #EmeraldArmor
-item.EmeraldHelmet.name=Emerald Helmet
-item.EmeraldChestplate.name=Emerald Chestplate
-item.EmeraldLeggings.name=Emerald Leggings
-item.EmeraldBoots.name=Emerald Boots
+item.EmeraldHelmet.name=Casque en Émeraude
+item.EmeraldChestplate.name=Plastron en Émeraude
+item.EmeraldLeggings.name=Jambières en Émeraude
+item.EmeraldBoots.name=Bottes en Émeraude
 
 #ObsidianArmor
-item.ObsidianHelmet.name=Obsidian Helmet
-item.ObsidianChestplate.name=Obsidian Chestplate
-item.ObsidianLeggings.name=Obsidian Leggings
-item.ObsidianBoots.name=Obsidian Boots
+item.ObsidianHelmet.name=Casque en Obsidienne
+item.ObsidianChestplate.name=Plastron en Obsidienne
+item.ObsidianLeggings.name=Jambières en Obsidienne
+item.ObsidianBoots.name=Bottes en Obsidienne
 
 #LavaArmor
-item.LavaHelmet.name=Lava Helmet
-item.LavaChestplate.name=Lava Chestplate
-item.LavaLeggings.name=Lava Leggings
-item.LavaBoots.name=Lava Boots
+item.LavaHelmet.name=Casque en Lave
+item.LavaChestplate.name=Plastron en Lave
+item.LavaLeggings.name=Jambières en Lave
+item.LavaBoots.name=Bottes en Lave
 
 #SuperStarArmor
-item.SuperStarHelmet.name=Super Star Helmet
-item.SuperStarChestplate.name=Super Star Chestplate
-item.SuperStarLeggings.name=Super Star Leggings
-item.SuperStarBoots.name=Super Star Boots
+item.SuperStarHelmet.name=Casque en Étoile Formidable
+item.SuperStarChestplate.name=Plastron en Étoile Formidable
+item.SuperStarLeggings.name=Jambières en Étoile Formidable
+item.SuperStarBoots.name=Bottes en Étoile Formidable
 
 #EnderDragonArmor
 item.EnderDragonScale.name=Ender Dragon Scale
